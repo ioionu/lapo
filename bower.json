@@ -1,0 +1,18 @@
+{
+  "name": "lapo",
+  "version": "0.0.0",
+  "authors": [
+    "josh <io@ioio.nu>"
+  ],
+  "description": "opal lite",
+  "main": "index.js",
+  "license": "GPL3",
+  "homepage": "http://sydneywebdev.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
